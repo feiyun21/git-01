@@ -15,6 +15,7 @@ public class StudentModel {
 		this.password = password;
 		this.sex = sex;
 		this.love = love;
+		feiyun
 	}
 	
 
